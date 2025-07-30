@@ -2,20 +2,6 @@
 
 # 🧑‍⚕️ HealthBooker
 
-<div align="center">
-
-![Repo Size](https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge)
-![Closed Issues](https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Avinash905/HealthBooker?style=for-the-badge)
-![PRs](https://img.shields.io/github/issues-pr/Avinash905/HealthBooker?style=for-the-badge)
-![Closed PRs](https://img.shields.io/github/issues-pr-closed-raw/Avinash905/HealthBooker?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Avinash905/HealthBooker?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Avinash905/HealthBooker?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors-anon/Avinash905/HealthBooker?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📝 Description
