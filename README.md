@@ -76,3 +76,64 @@
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd HealthBooker-main
+
+
+ 2. Install Dependencies
+
+Backend 
+```bash
+cd server
+npm install
+
+Frontend
+```bash 
+cd ../client
+npm install
+
+
+3. Set Up Environment Variables
+Create .env files in both /server and /client folders:
+
+.env (server)
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
+
+.env (client)
+```bash
+REACT_APP_BASE_URL=http://localhost:5000
+
+
+4. Start the Development Server
+
+Backend
+```bash
+cd server
+npm start
+
+Frontend
+```bash
+cd client
+npm start
+
+Now, visit http://localhost:3000 in your browser.
+
+
+🧪 Folder Structure
+
+HealthBooker-main/
+├── client/         # React frontend
+│   ├── src/
+│   └── .env
+├── server/         # Node.js backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── .env
+└── README.md
+
